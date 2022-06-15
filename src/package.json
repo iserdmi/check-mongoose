@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "mongoose": "6.3.8",
+    "typescript": "4.8.0-dev.20220615"
+  },
+  "description": "TypeScript playground exported Sandbox",
+  "name": "TypeScript Playground Export",
+  "version": "0.0.0"
+}
